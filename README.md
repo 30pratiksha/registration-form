@@ -1,3 +1,4 @@
 # registration-form
 Student registaration form using html &amp; css.
-![student reg form](https://user-images.githubusercontent.com/99266197/155595235-1903fe18-8223-41de-8ca2-b49d830f4cf1.png)
+![screencapture-127-0-0-1-5500-index-html-2022-02-25-01_12_32](https://user-images.githubusercontent.com/99266197/155596757-ee6dbd44-b2c6-45f5-84f4-2476656c72a9.png)
+
